@@ -1,4 +1,4 @@
-# PMacroML
+# Sperm Whale Machine Learning
 Sperm Whale (Physeter macrocephalus) Machine Learning Algorithms
 
 Code repository for Scientific Reports publication: "Deep Machine Learning Techniques for Sperm Whale Bioacoustics: Detection and Classification of Echolocation Clicks and Codas" by Peter C. Bermant, Michael M. Bronstein, Robert J. Wood, Shane Gero, and David F. Gruber.
